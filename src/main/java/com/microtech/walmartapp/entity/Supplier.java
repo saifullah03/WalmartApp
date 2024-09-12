@@ -50,4 +50,8 @@ public class Supplier {
     public int addedtovalue(int a , int b){
         return a + b;
     }
+
+    public String hello(){
+        return "Hello i am a java developer";
+    }
 }
