@@ -46,4 +46,8 @@ public class Supplier {
     public String print(){
         return "Hello Java";
     }
+
+    public int addedtovalue(int a , int b){
+        return a + b;
+    }
 }
