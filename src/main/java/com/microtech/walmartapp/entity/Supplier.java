@@ -42,4 +42,8 @@ public class Supplier {
                 ", name='" + name + '\'' +
                 '}';
     }
+
+    public String print(){
+        return "Hello Java";
+    }
 }
